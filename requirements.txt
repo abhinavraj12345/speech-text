@@ -199,8 +199,6 @@ python-Levenshtein-wheels==0.13.1
 python-multipart==0.0.5
 pytz==2018.7
 PyWavelets==1.0.1
-pywin32==223
-pywinpty==0.5.5
 PyYAML==5.3.1
 pyzmq==17.1.2
 QtAwesome==0.5.3
