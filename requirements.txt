@@ -31,9 +31,6 @@ cloudpickle==0.6.1
 colorama==0.4.3
 comtypes==1.1.7
 conan==1.28.2
-conda==4.5.12
-conda-build==3.17.6
-conda-verify==3.1.1
 confluent-kafka==1.5.0
 constantly==15.1.0
 contextlib2==0.5.5
